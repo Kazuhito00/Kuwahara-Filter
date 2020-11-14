@@ -1,6 +1,6 @@
 # Kuwahara-Filter
 [Kuwahara filter](https://en.wikipedia.org/wiki/Kuwahara_filter)のお試し実装。<br>
-<img src="https://user-images.githubusercontent.com/37477845/99142007-3cae4000-2694-11eb-986f-39eb004aa628.png" width="40%"> → <img src="https://user-images.githubusercontent.com/37477845/99142008-420b8a80-2694-11eb-9f34-64ea78942bd2.png" width="40%">
+<img src="https://user-images.githubusercontent.com/37477845/99142007-3cae4000-2694-11eb-986f-39eb004aa628.png" width="40%"> <img src="https://user-images.githubusercontent.com/37477845/99142335-79c80180-2697-11eb-893e-3c69e295c531.png" width="40%"> <img src="https://user-images.githubusercontent.com/37477845/99142008-420b8a80-2694-11eb-9f34-64ea78942bd2.png" width="40%">
 
 # Requirement 
 * OpenCV 3.4.2 or later
