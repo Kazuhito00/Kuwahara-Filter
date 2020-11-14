@@ -1,5 +1,6 @@
 # Kuwahara-Filter
 [Kuwahara filter](https://en.wikipedia.org/wiki/Kuwahara_filter)のお試し実装。<br>
+エッジをある程度たもったまま、油絵のようなフィルタ処理が出来ます。<br>
 <img src="https://user-images.githubusercontent.com/37477845/99142007-3cae4000-2694-11eb-986f-39eb004aa628.png" width="40%"> <b>→</b> <img src="https://user-images.githubusercontent.com/37477845/99142008-420b8a80-2694-11eb-9f34-64ea78942bd2.png" width="40%">
 
 # Requirement 
